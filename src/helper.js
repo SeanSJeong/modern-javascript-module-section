@@ -1,5 +1,5 @@
-export function multiply(numOne, numTwo) {
+;export function multiply(numOne, numTwo) {
     return numOne * numTwo;
   }
   
-  export const greeting = 'Hi there';
+  export const greeting = 'Hi there'
